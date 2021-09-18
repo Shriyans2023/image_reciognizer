@@ -1,0 +1,32 @@
+body {
+    background-color: aqua;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.heading {
+    width: 80%;
+    font-size: 35px;
+}
+
+#camera {
+    border: 2px dashed red;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_object {
+    color: salmon;
+}
+
+#result_object_name {
+    color: violet;
+}
+
+#result_object_accuracy {
+color: yellowgreen;
+}
+
+button {
+    text-align:center;
+}
